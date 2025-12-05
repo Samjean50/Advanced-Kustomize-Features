@@ -128,7 +128,7 @@ By the end of this project, you’ll be able to:
 - Deploy configurations seamlessly to an EKS cluster
 
 
-## Step Screen Shoots
+## Step Screenshots
 ![steps](images/1.png)
 ![steps](images/2.png)
 ![steps](images/3.png)
